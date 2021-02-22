@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>dc_unitOfWork</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\dc-data-context\dc-data-context.csproj" />
+    <ProjectReference Include="..\dc-generic-repository\dc-generic-repository.csproj" />
+  </ItemGroup>
+
+</Project>

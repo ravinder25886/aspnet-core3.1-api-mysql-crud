@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>dc_accounts_viewmodels</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\dc-common-view-model\dc-common-view-model.csproj" />
+    <ProjectReference Include="..\dc-datamodels\dc-datamodels.csproj" />
+    <ProjectReference Include="..\dc-JWT-Security\dc-JWT-Security.csproj" />
+  </ItemGroup>
+
+</Project>

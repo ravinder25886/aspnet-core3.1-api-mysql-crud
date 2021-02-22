@@ -1,0 +1,9 @@
+D:\2021\ASPNetProjects\usdc\dc-datamodels\bin\Debug\netcoreapp3.1\dc-datamodels.deps.json
+D:\2021\ASPNetProjects\usdc\dc-datamodels\bin\Debug\netcoreapp3.1\dc-datamodels.dll
+D:\2021\ASPNetProjects\usdc\dc-datamodels\bin\Debug\netcoreapp3.1\dc-datamodels.pdb
+D:\2021\ASPNetProjects\usdc\dc-datamodels\obj\Debug\netcoreapp3.1\dc-datamodels.AssemblyInfoInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-datamodels\obj\Debug\netcoreapp3.1\dc-datamodels.AssemblyInfo.cs
+D:\2021\ASPNetProjects\usdc\dc-datamodels\obj\Debug\netcoreapp3.1\dc-datamodels.csproj.CoreCompileInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-datamodels\obj\Debug\netcoreapp3.1\dc-datamodels.dll
+D:\2021\ASPNetProjects\usdc\dc-datamodels\obj\Debug\netcoreapp3.1\dc-datamodels.pdb
+D:\2021\ASPNetProjects\usdc\dc-datamodels\obj\Debug\netcoreapp3.1\dc-datamodels.csprojAssemblyReference.cache

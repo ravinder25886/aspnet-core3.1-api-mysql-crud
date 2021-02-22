@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dc-common-view-model/1.0.0": {
+        "runtime": {
+          "dc-common-view-model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dc-common-view-model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

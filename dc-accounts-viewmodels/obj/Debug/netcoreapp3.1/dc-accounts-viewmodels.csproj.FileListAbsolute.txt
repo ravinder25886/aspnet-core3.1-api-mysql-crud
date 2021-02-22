@@ -1,0 +1,16 @@
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-accounts-viewmodels.deps.json
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-accounts-viewmodels.dll
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-accounts-viewmodels.pdb
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\obj\Debug\netcoreapp3.1\dc-accounts-viewmodels.csprojAssemblyReference.cache
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\obj\Debug\netcoreapp3.1\dc-accounts-viewmodels.AssemblyInfoInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\obj\Debug\netcoreapp3.1\dc-accounts-viewmodels.AssemblyInfo.cs
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\obj\Debug\netcoreapp3.1\dc-accounts-viewmodels.csproj.CoreCompileInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\obj\Debug\netcoreapp3.1\dc-accounts-viewmodels.dll
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\obj\Debug\netcoreapp3.1\dc-accounts-viewmodels.pdb
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-common-view-model.dll
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-datamodels.dll
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-common-view-model.pdb
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-datamodels.pdb
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\obj\Debug\netcoreapp3.1\dc-accounts-viewmodels.csproj.CopyComplete
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-JWT-Security.dll
+D:\2021\ASPNetProjects\usdc\dc-accounts-viewmodels\bin\Debug\netcoreapp3.1\dc-JWT-Security.pdb

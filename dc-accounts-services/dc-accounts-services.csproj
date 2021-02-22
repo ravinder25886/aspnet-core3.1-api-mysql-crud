@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>dc_accounts_services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\dc-accounts-viewmodels\dc-accounts-viewmodels.csproj" />
+    <ProjectReference Include="..\dc-data-context\dc-data-context.csproj" />
+    <ProjectReference Include="..\dc-datamodels\dc-datamodels.csproj" />
+    <ProjectReference Include="..\dc-unitOfWork\dc-unitOfWork.csproj" />
+  </ItemGroup>
+
+</Project>

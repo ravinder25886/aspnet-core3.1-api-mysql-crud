@@ -1,0 +1,12 @@
+D:\2021\ASPNetProjects\usdc\dc-exceptions\bin\Debug\netcoreapp3.1\dc-exceptions.deps.json
+D:\2021\ASPNetProjects\usdc\dc-exceptions\bin\Debug\netcoreapp3.1\dc-exceptions.dll
+D:\2021\ASPNetProjects\usdc\dc-exceptions\bin\Debug\netcoreapp3.1\dc-exceptions.pdb
+D:\2021\ASPNetProjects\usdc\dc-exceptions\bin\Debug\netcoreapp3.1\dc-common-view-model.dll
+D:\2021\ASPNetProjects\usdc\dc-exceptions\bin\Debug\netcoreapp3.1\dc-common-view-model.pdb
+D:\2021\ASPNetProjects\usdc\dc-exceptions\obj\Debug\netcoreapp3.1\dc-exceptions.csprojAssemblyReference.cache
+D:\2021\ASPNetProjects\usdc\dc-exceptions\obj\Debug\netcoreapp3.1\dc-exceptions.AssemblyInfoInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-exceptions\obj\Debug\netcoreapp3.1\dc-exceptions.AssemblyInfo.cs
+D:\2021\ASPNetProjects\usdc\dc-exceptions\obj\Debug\netcoreapp3.1\dc-exceptions.csproj.CoreCompileInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-exceptions\obj\Debug\netcoreapp3.1\dc-exceptions.csproj.CopyComplete
+D:\2021\ASPNetProjects\usdc\dc-exceptions\obj\Debug\netcoreapp3.1\dc-exceptions.dll
+D:\2021\ASPNetProjects\usdc\dc-exceptions\obj\Debug\netcoreapp3.1\dc-exceptions.pdb

@@ -1,0 +1,9 @@
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\bin\Debug\netcoreapp3.1\dc-common-view-model.deps.json
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\bin\Debug\netcoreapp3.1\dc-common-view-model.dll
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\bin\Debug\netcoreapp3.1\dc-common-view-model.pdb
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\obj\Debug\netcoreapp3.1\dc-common-view-model.AssemblyInfoInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\obj\Debug\netcoreapp3.1\dc-common-view-model.AssemblyInfo.cs
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\obj\Debug\netcoreapp3.1\dc-common-view-model.csproj.CoreCompileInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\obj\Debug\netcoreapp3.1\dc-common-view-model.dll
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\obj\Debug\netcoreapp3.1\dc-common-view-model.pdb
+D:\2021\ASPNetProjects\usdc\dc-common-view-model\obj\Debug\netcoreapp3.1\dc-common-view-model.csprojAssemblyReference.cache

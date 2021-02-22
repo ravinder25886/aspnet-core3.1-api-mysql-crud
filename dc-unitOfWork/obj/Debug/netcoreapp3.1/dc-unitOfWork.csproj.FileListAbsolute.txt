@@ -1,0 +1,16 @@
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-unitOfWork.deps.json
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-unitOfWork.dll
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-unitOfWork.pdb
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-data-context.dll
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-datamodels.dll
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-generic-repository.dll
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-data-context.pdb
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-generic-repository.pdb
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\bin\Debug\netcoreapp3.1\dc-datamodels.pdb
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\obj\Debug\netcoreapp3.1\dc-unitOfWork.csprojAssemblyReference.cache
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\obj\Debug\netcoreapp3.1\dc-unitOfWork.AssemblyInfoInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\obj\Debug\netcoreapp3.1\dc-unitOfWork.AssemblyInfo.cs
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\obj\Debug\netcoreapp3.1\dc-unitOfWork.csproj.CoreCompileInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\obj\Debug\netcoreapp3.1\dc-unitOfWork.csproj.CopyComplete
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\obj\Debug\netcoreapp3.1\dc-unitOfWork.dll
+D:\2021\ASPNetProjects\usdc\dc-unitOfWork\obj\Debug\netcoreapp3.1\dc-unitOfWork.pdb

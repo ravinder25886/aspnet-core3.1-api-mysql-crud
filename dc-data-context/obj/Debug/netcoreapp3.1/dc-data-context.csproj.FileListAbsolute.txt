@@ -1,0 +1,15 @@
+D:\2021\ASPNetProjects\usdc\dc-data-context\bin\Debug\netcoreapp3.1\dc-data-context.deps.json
+D:\2021\ASPNetProjects\usdc\dc-data-context\bin\Debug\netcoreapp3.1\dc-data-context.dll
+D:\2021\ASPNetProjects\usdc\dc-data-context\bin\Debug\netcoreapp3.1\dc-data-context.pdb
+D:\2021\ASPNetProjects\usdc\dc-data-context\bin\Debug\netcoreapp3.1\dc-datamodels.dll
+D:\2021\ASPNetProjects\usdc\dc-data-context\bin\Debug\netcoreapp3.1\dc-datamodels.pdb
+D:\2021\ASPNetProjects\usdc\dc-data-context\obj\Debug\netcoreapp3.1\dc-data-context.csprojAssemblyReference.cache
+D:\2021\ASPNetProjects\usdc\dc-data-context\obj\Debug\netcoreapp3.1\dc-data-context.AssemblyInfoInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-data-context\obj\Debug\netcoreapp3.1\dc-data-context.AssemblyInfo.cs
+D:\2021\ASPNetProjects\usdc\dc-data-context\obj\Debug\netcoreapp3.1\dc-data-context.csproj.CoreCompileInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-data-context\obj\Debug\netcoreapp3.1\dc-data-context.csproj.CopyComplete
+D:\2021\ASPNetProjects\usdc\dc-data-context\obj\Debug\netcoreapp3.1\dc-data-context.dll
+D:\2021\ASPNetProjects\usdc\dc-data-context\obj\Debug\netcoreapp3.1\dc-data-context.pdb
+D:\2021\ASPNetProjects\usdc\dc-data-context\bin\Debug\netcoreapp3.1\dc-data-context.runtimeconfig.json
+D:\2021\ASPNetProjects\usdc\dc-data-context\bin\Debug\netcoreapp3.1\dc-data-context.runtimeconfig.dev.json
+D:\2021\ASPNetProjects\usdc\dc-data-context\obj\Debug\netcoreapp3.1\dc-data-context.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWktd643cAObGWmwsviXvVTQUAGwEFeg2ZWUU5jEUGEqf2rlozEyi1nkl7aqDicW/4TZZ5DriMZMhUwQA4RCdQ==",
+  "success": true,
+  "projectFilePath": "D:\\2021\\usdc\\dc-exceptions\\dc-exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tanmay\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tanmay\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

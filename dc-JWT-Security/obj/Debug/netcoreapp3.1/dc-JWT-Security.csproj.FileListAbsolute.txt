@@ -1,0 +1,9 @@
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\bin\Debug\netcoreapp3.1\dc-JWT-Security.deps.json
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\bin\Debug\netcoreapp3.1\dc-JWT-Security.dll
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\bin\Debug\netcoreapp3.1\dc-JWT-Security.pdb
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\obj\Debug\netcoreapp3.1\dc-JWT-Security.csprojAssemblyReference.cache
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\obj\Debug\netcoreapp3.1\dc-JWT-Security.AssemblyInfoInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\obj\Debug\netcoreapp3.1\dc-JWT-Security.AssemblyInfo.cs
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\obj\Debug\netcoreapp3.1\dc-JWT-Security.csproj.CoreCompileInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\obj\Debug\netcoreapp3.1\dc-JWT-Security.dll
+D:\2021\ASPNetProjects\usdc\dc-JWT-Security\obj\Debug\netcoreapp3.1\dc-JWT-Security.pdb

@@ -1,0 +1,14 @@
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\bin\Debug\netcoreapp3.1\dc-generic-repository.deps.json
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\bin\Debug\netcoreapp3.1\dc-generic-repository.dll
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\bin\Debug\netcoreapp3.1\dc-generic-repository.pdb
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\bin\Debug\netcoreapp3.1\dc-data-context.dll
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\bin\Debug\netcoreapp3.1\dc-datamodels.dll
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\bin\Debug\netcoreapp3.1\dc-data-context.pdb
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\bin\Debug\netcoreapp3.1\dc-datamodels.pdb
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\obj\Debug\netcoreapp3.1\dc-generic-repository.csprojAssemblyReference.cache
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\obj\Debug\netcoreapp3.1\dc-generic-repository.AssemblyInfoInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\obj\Debug\netcoreapp3.1\dc-generic-repository.AssemblyInfo.cs
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\obj\Debug\netcoreapp3.1\dc-generic-repository.csproj.CoreCompileInputs.cache
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\obj\Debug\netcoreapp3.1\dc-generic-repository.csproj.CopyComplete
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\obj\Debug\netcoreapp3.1\dc-generic-repository.dll
+D:\2021\ASPNetProjects\usdc\dc-generic-repository\obj\Debug\netcoreapp3.1\dc-generic-repository.pdb
